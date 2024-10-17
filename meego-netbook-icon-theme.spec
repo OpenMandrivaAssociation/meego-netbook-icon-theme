@@ -4,7 +4,7 @@ Version: 2.2.12
 Release: %mkrel 1
 Group: System/Desktop
 License: Restricted
-URL: http://www.meego.com
+URL: https://www.meego.com
 Source0: http://repo.meego.com/MeeGo/releases/1.1/netbook/repos/source/netbook-icon-theme-%{version}.tar.gz
 Source1: License
 Requires: gtk+2
