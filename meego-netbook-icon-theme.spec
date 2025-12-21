@@ -8,6 +8,11 @@ URL: https://www.meego.com
 Source0: http://repo.meego.com/MeeGo/releases/1.1/netbook/repos/source/netbook-icon-theme-%{version}.tar.gz
 Source1: License
 Requires: gtk+2
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires: hicolor-icon-theme
 BuildRequires: icon-naming-utils
 BuildRequires: fdupes
