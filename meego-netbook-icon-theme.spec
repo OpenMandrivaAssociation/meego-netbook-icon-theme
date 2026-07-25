@@ -1,7 +1,7 @@
 Name: meego-netbook-icon-theme
 Summary: MeeGo netbook icon theme
 Version: 2.2.12
-Release: %mkrel 1
+Release: 2
 Group: System/Desktop
 License: Restricted
 URL: https://www.meego.com
